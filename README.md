@@ -1,8 +1,14 @@
 -👋 Hola ! I'm Sivani
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate CSE(AI&ML) student.I enjoy solving real-world problems through creative and efficient solutions. Constantly learning and exploring new technologies to expand my skill set. Let's collaborate and innovate together! 💻✨<br>Fun Fact:Like coding and dancing 🤭
+👋 Hi there! Hi there! I’m Nagasivani Nandam, a curious technophile, language lover, and developer who believes the right prompt can change everything. Currently working as a Python Developer at Tata Consultancy Services (TCS), I spend my days exploring the latest in Generative AI, Machine Learning, Deep Learning, and NLP.
 
+I believe continuous learning is the cornerstone of tech excellence. Along with my technical journey, I actively explore the world of languages. I’ve completed German A1 from Goethe-Institut, and I’m always open to adding new communication skills—spoken or coded—to my toolkit.
+
+🔹 Strong believer in cross-domain thinking
+🔹 Comfortable wearing many hats—developer, learner, collaborator
+🔹 Energized by innovation, collaboration, and meaningful tech
+Tech-savvy. AI-curious. Always in beta—making better versions of me daily 👩🏻‍🎓.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagasivani-nandam-2b1a52211) 
