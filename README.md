@@ -1,4 +1,4 @@
--👋 Hola ! I'm Sivani
+-👋 Hola ! I'm Nagasivani
 
 # 💫 About Me:
 👋 Hi there! Hi there! I’m Nagasivani Nandam, a curious technophile, language lover, and developer who believes the right prompt can change everything. Currently working as a Python Developer at Tata Consultancy Services (TCS), I spend my days exploring the latest in Generative AI, Machine Learning, Deep Learning, and NLP.
